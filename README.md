@@ -13,6 +13,11 @@ data dashboards.
 - 🌱 Always learning and improving my technical skills
 
 ---
+## 🌐 Community & Activities
+
+- 🎓 Member of Google Developer Groups (GDG) on Campus
+- 💻 Participated in developer community activities and learning
+- 🌱 Interested in learning new technologies and collaborating with developers
 
 ## 🛠️ Skills
 
@@ -21,6 +26,7 @@ data dashboards.
 - CSS
 - JavaScript
 - Responsive Web Design
+- React js
 
 ### 📊 Data Analytics
 - Power BI
@@ -31,7 +37,11 @@ data dashboards.
 - Git
 - GitHub
 - VS Code
-
+  
+### Programming languages
+-python
+-c
+-c++(basics)
 ---
 
 ## 🚀 Featured Projects
