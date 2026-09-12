@@ -19,7 +19,8 @@ data dashboards.
 - 🐍 Python — Basics
 - 💻 C — Basics
 - ⚡ C++ — Basics
-- 🟨 JavaScript — Basics
+- 🟨 JavaScript
+- 🗄️ SQL
 
 ### 💻 Web Development
 - HTML
