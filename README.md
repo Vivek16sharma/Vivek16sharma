@@ -9,7 +9,7 @@ data dashboards.
 - 🎓 Fresher looking for Web Development & Data Analytics opportunities
 - 💼 3 Months of Web Development Internship Experience
 - 💻 Interested in Frontend & Web Development
-- 📊 Experienced with Power BI and Data Visualization
+- 📊 knowledge of Power BI and Data Visualization
 - 🌱 Always learning and improving my technical skills
 
 ---
