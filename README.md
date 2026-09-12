@@ -30,7 +30,7 @@ data dashboards.
 - React js
 
 ### 📊 Data Analytics
-- Power BI
+- Power BI — Data Visualization & Dashboard Development
 - Data Visualization
 - Interactive Dashboards
 
