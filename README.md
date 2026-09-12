@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Vivek Kumar Sharma 👋
 
-<!--
-**Vivek16sharma/Vivek16sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | 📊 Power BI | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a passionate Web Developer and a fresher who enjoys building
+responsive websites, practical web applications and interactive
+data dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Fresher looking for Web Development & Data Analytics opportunities
+- 💼 3 Months of Web Development Internship Experience
+- 💻 Interested in Frontend & Web Development
+- 📊 Experienced with Power BI and Data Visualization
+- 🌱 Always learning and improving my technical skills
+
+---
+
+## 🛠️ Skills
+
+### 💻 Web Development
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+
+### 📊 Data Analytics
+- Power BI
+- Data Visualization
+- Interactive Dashboards
+
+### 🔧 Tools
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web Development Projects
+- Personal Portfolio Website
+- JavaScript Calculator
+- Web Development Internship Project
+
+### 📊 Power BI Projects
+- Interactive Data Analytics Dashboard
+- Business Data Visualization Project
+
+---
+
+## 💼 Internship
+
+**Web Development Intern — 3 Months**
+
+Worked on web development projects and gained practical
+experience in building and improving web applications.
+
+---
+
+## 📈 What I'm Currently Learning
+
+- Advanced JavaScript
+- Modern Web Development
+- Data Analytics & Visualization
+- Backend Development
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to internships, entry-level opportunities and
+collaborative projects.
+
+⭐ Thanks for visiting my profile!
