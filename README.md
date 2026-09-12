@@ -13,13 +13,13 @@ data dashboards.
 - 🌱 Always learning and improving my technical skills
 
 ---
-## 🌐 Community & Activities
-
-- 🎓 Member of Google Developer Groups (GDG) on Campus
-- 💻 Participated in developer community activities and learning
-- 🌱 Interested in learning new technologies and collaborating with developers
-
 ## 🛠️ Skills
+## 👨‍💻 Programming Basics
+
+- 🐍 Python — Basics
+- 💻 C — Basics
+- ⚡ C++ — Basics
+- 🟨 JavaScript — Basics
 
 ### 💻 Web Development
 - HTML
@@ -33,16 +33,23 @@ data dashboards.
 - Data Visualization
 - Interactive Dashboards
 
+## 🧰 Microsoft Tools
+
+- 📊 Microsoft Excel — Basics
+- 📝 Microsoft Word — Basics
+- 📽️ Microsoft PowerPoint — Basics
+
 ### 🔧 Tools
 - Git
 - GitHub
 - VS Code
-  
-### Programming languages
--python
--c
--c++(basics)
----
+
+## 🌐 Community & Activities
+
+- 🎓 Member of Google Developer Groups (GDG) on Campus
+- 💻 Participated in developer community activities and learning
+- 🌱 Interested in learning new technologies and collaborating with developers  
+
 
 ## 🚀 Featured Projects
 
